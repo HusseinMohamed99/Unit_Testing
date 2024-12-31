@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:unit_testing/calculator.dart';
+import 'package:unit_testing/testing/calculator.dart';
 
 // TODO: Note that the test function is not called mains() but main()
 // TODO: Write a test for the Calculator class

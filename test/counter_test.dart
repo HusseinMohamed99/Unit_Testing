@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:unit_testing/counter.dart';
+import 'package:unit_testing/testing/counter.dart';
 
 //TODO: Note that the test function is not called mains() but main()
 // TODO: Write a test for the Counter class
