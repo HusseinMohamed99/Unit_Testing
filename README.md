@@ -47,3 +47,7 @@
 * Arrange(setup everything that is going to be used in the test)
 * Act(call the specific method or make the change that we want to test)
 * Assert(compare expected value with actual value)
+
+## Documentation
+
+[text](https://docs.flutter.dev/testing/overview)
